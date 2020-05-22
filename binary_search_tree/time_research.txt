@@ -1,0 +1,4 @@
+Searching in a list: 0:00:00.101474
+Searching in a sorted tree: 0:00:01.985692
+Searching in a balanced tree: 0:00:00.024736
+Searching in a shuffled tree: 0:00:00.022616
